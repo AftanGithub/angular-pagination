@@ -1,3 +1,7 @@
+# Preview
+![pagination](https://user-images.githubusercontent.com/75898512/233824291-0e091fb9-b521-4cf2-aa37-4adf820da568.PNG)
+
+
 # Pages
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
